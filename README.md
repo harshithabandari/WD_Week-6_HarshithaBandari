@@ -6,9 +6,17 @@ A beginner-friendly, responsive portfolio website based on my resume. It introdu
 
 No dependencies or build tools are needed.
 
-1. Download or clone this repository.
-2. Open `index.html` in a web browser.
-3. To edit the site, open `index.html`, `style.css`, and `script.js` in a code editor.
+1. Open this project folder in VS Code.
+2. Open a terminal in the project folder and start the local web server:
+
+   ```bash
+   py -3 -m http.server 8080
+   ```
+
+   Keep this terminal open while viewing the site. The VS Code Chrome launch configuration uses this server.
+3. Open `http://localhost:8080` in your browser, or press **F5** in VS Code.
+4. To stop the server, return to its terminal and press **Ctrl+C**.
+5. To edit the site, open `index.html`, `style.css`, and `script.js` in a code editor.
 
 ## Features
 
