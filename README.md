@@ -71,6 +71,8 @@ The GitHub repository and live website links are intentionally not listed yet: t
 
 **Key learnings:** I practiced semantic HTML, CSS layout, responsive design, JavaScript functions, arrays, objects, events, and DOM manipulation. I also learned how meaningful Git commits help record progress and how GitHub Pages can host a static site.
 
+**Project choices:** I kept the design simple so the content is easy to scan, used a consistent green color palette, and made the navigation usable on a phone. The project list includes my portfolio and the interactive refresh made for this assignment; it does not claim that I have completed unrelated projects. The search and filters provide a small practical example of changing page content in response to user input. I tested the contact form as a front-end interaction and clearly explain that sending still happens in the visitor's own email app.
+
 **Future improvements:** I would add more completed projects, include a downloadable resume, and connect the contact form to a backend service if needed. I would also test with more devices and browsers.
 
 **Screenshots:** Add desktop and mobile screenshots here after testing your published site.
