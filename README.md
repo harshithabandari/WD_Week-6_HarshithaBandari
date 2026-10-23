@@ -56,7 +56,7 @@ After later changes, use `git status`, `git add .`, `git commit -m "Describe you
 
 ## Publish with GitHub Pages
 
-The GitHub Actions workflow deploys the site when code is pushed to `master`. In the repository, open **Settings → Pages** and choose **GitHub Actions** as the build and deployment source if Pages is not enabled already. Check the **Actions** tab until the **Deploy portfolio to GitHub Pages** run succeeds.
+The GitHub Actions workflow is ready to deploy the site when code is pushed to `master`. The repository owner must first open **Settings → Pages** and choose **GitHub Actions** as the build and deployment source. Then rerun the failed workflow in the **Actions** tab. The live URL below will work after that deployment succeeds.
 
 - **GitHub repository:** <https://github.com/harshithabandari/WD_Week-6_HarshithaBandari>
 - **Live website:** <https://harshithabandari.github.io/WD_Week-6_HarshithaBandari/>
@@ -88,4 +88,4 @@ After deployment, test the live site on desktop and mobile, including the projec
 
 **GitHub repository:** <https://github.com/harshithabandari/WD_Week-6_HarshithaBandari>
 
-**Live website:** <https://harshithabandari.github.io/WD_Week-6_HarshithaBandari/>
+**Live website (available after GitHub Pages is enabled and deployed):** <https://harshithabandari.github.io/WD_Week-6_HarshithaBandari/>
