@@ -56,14 +56,12 @@ After later changes, use `git status`, `git add .`, `git commit -m "Describe you
 
 ## Publish with GitHub Pages
 
-1. Push this repository to GitHub.
-2. Open the repository's **Settings → Pages**.
-3. Under **Build and deployment**, choose **Deploy from a branch**.
-4. Select the `main` branch and `/ (root)` folder, then save.
-5. Wait for GitHub Pages to publish. Copy the live URL shown on the Pages settings screen.
-6. Open that URL on desktop and mobile; test the navigation, project search and filters, theme button, and contact form.
+The GitHub Actions workflow deploys the site when code is pushed to `master`. In the repository, open **Settings → Pages** and choose **GitHub Actions** as the build and deployment source if Pages is not enabled already. Check the **Actions** tab until the **Deploy portfolio to GitHub Pages** run succeeds.
 
-The GitHub repository and live website links are intentionally not listed yet: this local project has not been pushed or deployed. Add the real links here after publishing.
+- **GitHub repository:** <https://github.com/harshithabandari/WD_Week-6_HarshithaBandari>
+- **Live website:** <https://harshithabandari.github.io/WD_Week-6_HarshithaBandari/>
+
+After deployment, test the live site on desktop and mobile, including the project search and filters, theme button, and contact form.
 
 ## Project report and reflection
 
@@ -83,8 +81,11 @@ The GitHub repository and live website links are intentionally not listed yet: t
 
 **Future improvements:** I would add more completed projects, include a downloadable resume, and connect the contact form to a backend service if needed. I would also test with more devices and browsers.
 
-**Screenshots:** Add desktop and mobile screenshots here after testing your published site.
+**Screenshots:** These screenshots show the site output at desktop and mobile sizes.
 
-**GitHub repository:** Add your public repository URL after you push this project.
+- [Desktop screenshot](./screenshots/portfolio-desktop.png)
+- [Mobile screenshot](./screenshots/portfolio-mobile.png)
 
-**Live website:** Add your GitHub Pages URL after deployment.
+**GitHub repository:** <https://github.com/harshithabandari/WD_Week-6_HarshithaBandari>
+
+**Live website:** <https://harshithabandari.github.io/WD_Week-6_HarshithaBandari/>
